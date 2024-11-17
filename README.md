@@ -20,4 +20,7 @@ This repository contains the common utility packages required for developing dar
 
 ## Donation & Support
 
-If you like this project and interested in supporting its development, you can make a donation via [paypal](https://paypal.me/dukefirehawk?country.x=MY&locale.x=en_US) service.
+If you like this project and interested in supporting its development, you are welcome to make a donation via the following links.
+
+* [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/dukefirehawk)
+* [Paypal Donation](https://paypal.me/dukefirehawk?country.x=MY&locale.x=en_US)

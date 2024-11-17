@@ -6,8 +6,8 @@ environment:
   sdk: '>=3.5.0 <4.0.0'
 dependencies:
   http_parser: ^4.0.0
-  belatuk_http_server: ^4.4.0
-  mime: ^1.0.0
+  belatuk_http_server: ^4.5.0
+  mime: ^2.0.0
 dev_dependencies:
   http: ^1.0.0
   test: ^1.24.0
